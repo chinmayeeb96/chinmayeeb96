@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning and Computer Vision.
 - 🌱 I’m currently learning about Deep learning techniques with Keras and Tensorflow.
 - 💞️ I’m looking to collaborate on the application of Machine Learning and Deep Learning techniques in various fields.
-- 📫 How to reach me: chinmayeedalaibharati@gmail.com, @Chinmayee_Bd
+- 📫 How to reach me: chinmayeedalaibharati@gmail.com, twitter@Chinmayee_Bd
 
 
 <!---
