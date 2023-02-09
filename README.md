@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the application of Deep Learning and Computer Vision techniques in AR/VR.
 - 📫 How to reach me: chinmayeedalaibharati@gmail.com, twitter@Chinmayee_Bd
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+- ![](https://komarev.com/ghpvc/?username=chinmayeeb96&color=green)
 
 <!---
 chinmayeeb96/chinmayeeb96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
