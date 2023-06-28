@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chinmayee Bharati Dalai
-- 👀 I’m interested in Deep Learning and Computer Vision.
+- 👀 I’m interested in NLP and Computer Vision.
 - 🌱 I’m currently learning about Neural Networks.
-- 💞️ I’m looking to collaborate on the application of Deep Learning and Computer Vision techniques in AR/VR.
+- 💞️ I’m looking to collaborate on the application of NLP and Computer Vision techniques in various fields.
 - 📫 How to reach me: chinmayeedalaibharati@gmail.com, twitter@Chinmayee_Bd
 
 - ![](https://komarev.com/ghpvc/?username=chinmayeeb96&color=green)
